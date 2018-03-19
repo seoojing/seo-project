@@ -1,0 +1,28 @@
+<!doctype html>
+<title>재현 예제</title>
+
+<head>
+	<meta charset="utf-8">
+	<title>재현예제 페이지 </title>
+	
+	<style>
+		body{background: gray;}
+	</style>
+</head>
+<body>
+	
+	<article>
+		<h1>점심먹자</h1>
+		<p>오늘 점심은 뭘먹을까</p>
+		<br>
+		<br>
+	</article>
+	<img src="asd.jpg">
+	<footer>돈까스 냉면 낙찰~</footer>
+	<hr>
+	<br>
+	<br>
+
+<a href="https://www.youtube.com/watch?v=Tr7T2RHEP14">웹퍼블리싱을 배우려면</a>
+
+</body>
